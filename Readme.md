@@ -1,16 +1,21 @@
-
-# 👋 Hi, I'm Maryam Faiz
-
-### 🚀 Generative AI Developer | AI Engineer | Python Developer
+<!-- ======================= HEADER ======================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=Generative+AI+Developer;AI+Engineer;LLMs+%7C+RAG+%7C+AI+Agents;FastAPI+%7C+Python+%7C+React" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Maryam+Faiz;Generative+AI+Developer;AI+Engineer;LLMs+%7C+RAG+%7C+AI+Agents;FastAPI+%7C+Python+%7C+React.js" />
+</p>
+
+<h3 align="center">
+🚀 Building Intelligent AI Solutions with LLMs, RAG & Machine Learning
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GenerativeAiWithMariams&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/GenerativeAiWithMariams/GenerativeAiWithMariams/raw/main/Maryam_Faiz_CV%20(3).pdf">
-  <img src="https://img.shields.io/badge/📄%20Download%20CV-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
+  <a href="YOUR_CV_LINK">
+    <img src="https://img.shields.io/badge/📄%20Download%20CV-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
 
   <a href="https://www.upwork.com/freelancers/~012612bc04003bbd8a?mp_source=share">
     <img src="https://img.shields.io/badge/Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
@@ -21,159 +26,72 @@
   </a>
 </p>
 
-
-Building intelligent AI applications with **LLMs, RAG, AI Agents, Machine Learning, and FastAPI**.
-
-
 ---
 
-## 💫 About Me
+## 👩‍💻 About Me
 
-I'm a **Generative AI Developer** with a **Bachelor's degree in Computer Science**, passionate about transforming ideas into intelligent, scalable, and production-ready AI solutions.
+I'm a **Generative AI Developer** passionate about building intelligent, scalable, and production-ready AI applications.
 
-My expertise spans **Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Machine Learning, Deep Learning, Natural Language Processing (NLP), and AI Automation**. I enjoy building applications that solve real-world business challenges through modern AI technologies.
-
-Over the past year, I've designed and developed multiple AI-powered applications using **Python, FastAPI, TensorFlow, Keras, Streamlit, React.js, LangChain, LangGraph, and modern LLM frameworks**, combining technical excellence with practical problem-solving.
-
----
-
-## 🚀 What I Build
-
-* 🤖 AI Chatbots powered by Large Language Models (LLMs)
-* 📚 Retrieval-Augmented Generation (RAG) Applications
-* 🧠 AI Agents & Agentic Workflows
-* 💬 Natural Language Processing (NLP) Solutions
-* 📊 Machine Learning & Deep Learning Models
-* ⚡ FastAPI Backend Development
-* 🌐 AI-Powered Web Applications
-* 🔗 API Integration & Automation
-* 🗄️ Intelligent Database Assistants
-* 📄 Document Intelligence & Semantic Search
+💡 **Specializations**
+- 🤖 Generative AI
+- 🧠 Large Language Models (LLMs)
+- 📚 Retrieval-Augmented Generation (RAG)
+- ⚡ AI Agents & Agentic Workflows
+- 💬 Natural Language Processing (NLP)
+- 📊 Machine Learning & Deep Learning
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,js,tensorflow,docker,git,github,mysql,postgresql,vscode,html,css,tailwind" />
+</p>
 
-* Python
-* JavaScript
-* SQL
-
-### AI & Machine Learning
-
-* Generative AI
-* Large Language Models (LLMs)
-* LangChain
-* LangGraph
-* OpenAI
-* Hugging Face
-* TensorFlow
-* Keras
-* Scikit-learn
-* NLP
-* RAG
-
-### Backend
-
-* FastAPI
-* REST APIs
-
-### Frontend
-
-* React.js
-* Streamlit
-* HTML
-* CSS
-* Tailwind CSS
-
-### Vector Databases
-
-* FAISS
-* ChromaDB
-* Pinecone
-
-### Databases
-
-* PostgreSQL
-* MySQL
-* SQLite
-
-### Tools & Platforms
-
-* Git
-* GitHub
-* Docker
-* VS Code
+<p align="center">
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-0099FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pinecone-14B8A6?style=for-the-badge"/>
+</p>
 
 ---
 
-# 🌟 Featured Projects
+## 📌 Featured Projects
 
-## 🤖 AI-Powered RAG Chatbot
-
-An intelligent Retrieval-Augmented Generation chatbot capable of semantic document search, context-aware conversations, source retrieval, and accurate AI-generated responses using modern LLMs.
-
----
-
-## 💬 Chat with SQL & MySQL Assistant
-
-Built an AI assistant that converts natural language into optimized SQL queries, allowing users to interact with databases effortlessly.
+| 🚀 Project | Description |
+|------------|-------------|
+| 🤖 AI-Powered RAG Chatbot | Context-aware chatbot with semantic document search |
+| 💬 Chat with SQL & MySQL | Natural language to SQL using AI |
+| 🏥 Medical Appointment Bot | AI healthcare assistant |
+| 📹 YouTube Video Summarizer | AI-powered video summarization |
+| ❤️ Heart Disease Prediction | Deep Learning (ANN) prediction model |
 
 ---
 
-## 🏥 Medical Appointment & FAQ Assistant
+## 📊 GitHub Analytics
 
-Developed an AI healthcare assistant that automates appointment scheduling, answers patient FAQs, and enhances the overall user experience.
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GenerativeAiWithMariams&show_icons=true&theme=tokyonight&hide_border=true"/>
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GenerativeAiWithMariams&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-## 📹 YouTube Video Summarizer
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GenerativeAiWithMariams&theme=tokyonight&hide_border=true"/>
+</p>
 
-Created an AI application that transforms long YouTube videos into concise summaries, highlighting the most important insights within seconds.
-
----
-
-
-
-# 💼 What I Offer
-
-✔️ Generative AI Solutions
-
-✔️ AI Agent Development
-
-✔️ Retrieval-Augmented Generation (RAG)
-
-✔️ LLM Integration
-
-✔️ Machine Learning & Deep Learning
-
-✔️ Natural Language Processing (NLP)
-
-✔️ FastAPI Backend Development
-
-✔️ REST API Integration
-
-✔️ AI Automation
-
-✔️ Interactive AI Web Applications
-
-✔️ Clean, Scalable & Well-Documented Python Code
-
-✔️ Production-Ready AI Systems
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=GenerativeAiWithMariams&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15"/>
+</p>
 
 ---
 
-## 🎯 My Goal
+<h3 align="center">🤝 Let's Build Something Amazing Together!</h3>
 
-I believe AI should not only be intelligent—it should be practical, scalable, and capable of solving real business challenges.
-
-Whether it's building AI assistants, RAG systems, intelligent automation, or custom AI applications, I'm committed to delivering high-quality solutions that create measurable impact.
-
----
-
-## 🤝 Let's Connect
-
-I'm always excited to collaborate on innovative AI projects, contribute to open-source, and help businesses leverage the power of Artificial Intelligence.
-
-⭐ **If you like my work, don't forget to star my repositories and follow my journey!**
+<p align="center">
+⭐ If you like my work, consider starring my repositories and following my GitHub journey.
+</p>
