@@ -74,30 +74,15 @@ Over the past year, I've designed and developed multiple AI-powered applications
 
 # 🌟 Featured Projects
 
-## 🤖 AI-Powered RAG Chatbot
-
-An intelligent Retrieval-Augmented Generation chatbot capable of semantic document search, context-aware conversations, source retrieval, and accurate AI-generated responses using modern LLMs.
-
----
-
-## 💬 Chat with SQL & MySQL Assistant
-
-Built an AI assistant that converts natural language into optimized SQL queries, allowing users to interact with databases effortlessly.
+| 🚀 Project | 📝 Description | 🛠️ Tech Stack |
+|------------|---------------|---------------|
+| 🤖 **AI-Powered RAG Chatbot** | Context-aware chatbot with semantic document search, source citations, and accurate AI responses using LLMs. | LangChain • OpenAI • FAISS • ChromaDB • FastAPI |
+| 💬 **Chat with SQL & MySQL Assistant** | Converts natural language into optimized SQL queries, enabling effortless database interaction. | Python • SQL • FastAPI • LLMs |
+| 🏥 **Medical Appointment & FAQ Assistant** | AI healthcare assistant for appointment scheduling and automated patient support. | Streamlit • Python • NLP |
+| 📹 **YouTube Video Summarizer** | Generates concise summaries and key insights from YouTube videos using AI. | Python • LLMs • NLP |
+| ❤️ **Heart Disease Prediction System** | Deep learning model for early heart disease prediction using Artificial Neural Networks (ANN). | TensorFlow • Keras • Python |
 
 ---
-
-## 🏥 Medical Appointment & FAQ Assistant
-
-Developed an AI healthcare assistant that automates appointment scheduling, answers patient FAQs, and enhances the overall user experience.
-
----
-
-## 📹 YouTube Video Summarizer
-
-Created an AI application that transforms long YouTube videos into concise summaries, highlighting the most important insights within seconds.
-
----
-
 
 
 # 💼 What I Offer
