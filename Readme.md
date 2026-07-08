@@ -37,21 +37,21 @@ My expertise spans **Generative AI, Large Language Models (LLMs), Retrieval-Augm
 Over the past year, I've designed and developed multiple AI-powered applications using **Python, FastAPI, TensorFlow, Keras, Streamlit, React.js, LangChain, LangGraph, and modern LLM frameworks**, combining technical excellence with practical problem-solving.
 
 ---
-
 ## 🚀 What I Build
 
-* 🤖 AI Chatbots powered by Large Language Models (LLMs)
-* 📚 Retrieval-Augmented Generation (RAG) Applications
-* 🧠 AI Agents & Agentic Workflows
-* 💬 Natural Language Processing (NLP) Solutions
-* 📊 Machine Learning & Deep Learning Models
-* ⚡ FastAPI Backend Development
-* 🌐 AI-Powered Web Applications
-* 🔗 API Integration & Automation
-* 🗄️ Intelligent Database Assistants
-* 📄 Document Intelligence & Semantic Search
+| 💡 Expertise | 🚀 Solutions |
+|-------------|--------------|
+| 🤖 **AI Chatbots** | Intelligent conversational AI powered by LLMs |
+| 📚 **RAG Systems** | Context-aware document search & question answering |
+| 🧠 **AI Agents** | Autonomous & multi-agent AI workflows |
+| 💬 **NLP Applications** | Text processing, summarization & semantic analysis |
+| 📊 **Machine Learning** | Predictive models using ML & Deep Learning |
+| ⚡ **FastAPI APIs** | High-performance backend development |
+| 🌐 **AI Web Apps** | Interactive applications with React & Streamlit |
+| 🔗 **API Integration** | OpenAI, Hugging Face & third-party APIs |
+| 🗄️ **Database AI** | SQL assistants & intelligent data solutions |
+| 📄 **Document AI** | OCR, semantic search & document intelligence |
 
----
 ---
 
 # 🛠️ Tech Stack
