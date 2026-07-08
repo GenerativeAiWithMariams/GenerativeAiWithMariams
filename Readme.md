@@ -83,22 +83,21 @@ Over the past year, I've designed and developed multiple AI-powered applications
 
 ---
 
-
 # 💼 What I Offer
 
 | 💡 Service | 📌 Description |
 |------------|----------------|
-| 🤖 **Generative AI Solutions** | Custom AI applications powered by modern LLMs |
-| 🧠 **AI Agent Development** | Intelligent single & multi-agent workflows |
-| 📚 **RAG Applications** | Context-aware document search & AI assistants |
-| 🔗 **LLM Integration** | OpenAI, Hugging Face & custom model integration |
-| 📊 **Machine Learning & Deep Learning** | Predictive analytics and intelligent models |
-| 💬 **NLP Solutions** | Chatbots, summarization & text understanding |
-| ⚡ **FastAPI Backend Development** | High-performance REST APIs |
-| 🔄 **API Integration & Automation** | Third-party APIs & workflow automation |
-| 🌐 **AI Web Applications** | Interactive apps with React & Streamlit |
-| 🧹 **Clean Python Development** | Scalable, maintainable & documented code |
-| 🚀 **Production-Ready Systems** | End-to-end AI solutions for real-world use |
+| 🤖 **Generative AI Solutions** | Design and develop intelligent AI applications powered by Large Language Models (LLMs) for real-world business use cases. |
+| 🧠 **AI Agent Development** | Build autonomous and multi-agent AI workflows capable of planning, reasoning, and task automation. |
+| 📚 **RAG Applications** | Develop Retrieval-Augmented Generation systems with semantic search, document retrieval, and context-aware responses. |
+| 🔗 **LLM Integration** | Integrate OpenAI, Hugging Face, Groq, and custom LLMs into modern web applications and enterprise systems. |
+| 📊 **Machine Learning & Deep Learning** | Create predictive models, deep learning solutions, and data-driven AI systems for business intelligence. |
+| 💬 **NLP Solutions** | Build chatbots, summarization tools, document processing systems, and other natural language applications. |
+| ⚡ **FastAPI Backend Development** | Develop secure, scalable, and high-performance REST APIs for AI-powered applications. |
+| 🔄 **API Integration & Automation** | Connect third-party APIs and automate complex workflows to improve business productivity. |
+| 🌐 **AI Web Applications** | Build interactive AI applications using React.js, Streamlit, and modern frontend technologies. |
+| 🧹 **Clean Python Development** | Write scalable, maintainable, well-documented, and production-quality Python code following best practices. |
+| 🚀 **Production-Ready Systems** | Deliver complete end-to-end AI solutions optimized for deployment, scalability, and long-term maintenance. |
 
 ---
 
