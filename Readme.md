@@ -12,7 +12,7 @@
   </a>
 
   <a href="https://www.upwork.com/freelancers/~012612bc04003bbd8a?mp_source=share">
-    <img src="https://img.shields.io/badge/Hire%20Me-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
   </a>
 
   <a href="mailto:maryamfaiz.genai@gmail.com">
