@@ -3,6 +3,9 @@
 
 ### 🚀 Generative AI Developer | AI Engineer | Python Developer
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=Generative+AI+Developer;AI+Engineer;LLMs+%7C+RAG+%7C+AI+Agents;FastAPI+%7C+Python+%7C+React" />
+</p>
+<p align="center">
   <a href="YOUR_CV_LINK">
     <img src="https://img.shields.io/badge/📄%20Download%20CV-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
