@@ -86,29 +86,19 @@ Over the past year, I've designed and developed multiple AI-powered applications
 
 # 💼 What I Offer
 
-✔️ Generative AI Solutions
-
-✔️ AI Agent Development
-
-✔️ Retrieval-Augmented Generation (RAG)
-
-✔️ LLM Integration
-
-✔️ Machine Learning & Deep Learning
-
-✔️ Natural Language Processing (NLP)
-
-✔️ FastAPI Backend Development
-
-✔️ REST API Integration
-
-✔️ AI Automation
-
-✔️ Interactive AI Web Applications
-
-✔️ Clean, Scalable & Well-Documented Python Code
-
-✔️ Production-Ready AI Systems
+| 💡 Service | 📌 Description |
+|------------|----------------|
+| 🤖 **Generative AI Solutions** | Custom AI applications powered by modern LLMs |
+| 🧠 **AI Agent Development** | Intelligent single & multi-agent workflows |
+| 📚 **RAG Applications** | Context-aware document search & AI assistants |
+| 🔗 **LLM Integration** | OpenAI, Hugging Face & custom model integration |
+| 📊 **Machine Learning & Deep Learning** | Predictive analytics and intelligent models |
+| 💬 **NLP Solutions** | Chatbots, summarization & text understanding |
+| ⚡ **FastAPI Backend Development** | High-performance REST APIs |
+| 🔄 **API Integration & Automation** | Third-party APIs & workflow automation |
+| 🌐 **AI Web Applications** | Interactive apps with React & Streamlit |
+| 🧹 **Clean Python Development** | Scalable, maintainable & documented code |
+| 🚀 **Production-Ready Systems** | End-to-end AI solutions for real-world use |
 
 ---
 
