@@ -85,28 +85,28 @@ Over the past year, I've designed and developed multiple AI-powered applications
 
 # 💼 What I Offer
 
-### 🤖 Generative AI Solutions
+> 🤖 **Generative AI Solutions**  
 Building intelligent applications powered by modern Large Language Models.
 
-### 🧠 AI Agent Development
+> 🧠 **AI Agent Development**  
 Creating autonomous and multi-agent AI workflows for business automation.
 
-### 📚 Retrieval-Augmented Generation (RAG)
+> 📚 **Retrieval-Augmented Generation (RAG)**  
 Developing context-aware AI assistants with semantic search and document retrieval.
 
-### ⚡ FastAPI & REST APIs
+> ⚡ **FastAPI & REST APIs**  
 Designing scalable, high-performance backend services and API integrations.
 
-### 🌐 AI Web Applications
+> 🌐 **AI Web Applications**  
 Building interactive AI applications using React.js and Streamlit.
 
-### 📊 Machine Learning & NLP
+> 📊 **Machine Learning & NLP**  
 Developing predictive models, chatbots, summarization tools, and NLP systems.
 
-### 🚀 Production-Ready Solutions
+> 🚀 **Production-Ready Solutions**  
 Delivering scalable, clean, and deployment-ready AI software.
 
----
+---  
 ## 🎯 My Goal
 
 I believe AI should not only be intelligent—it should be practical, scalable, and capable of solving real business challenges.
