@@ -114,11 +114,7 @@ Created an AI application that transforms long YouTube videos into concise summa
 
 ---
 
-## ❤️ Heart Disease Prediction System
 
-Designed a Deep Learning model using Artificial Neural Networks (ANN) to predict the likelihood of heart disease based on patient data.
-
----
 
 # 💼 What I Offer
 
