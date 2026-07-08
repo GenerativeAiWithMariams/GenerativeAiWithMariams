@@ -47,60 +47,23 @@ Over the past year, I've designed and developed multiple AI-powered applications
 * 📄 Document Intelligence & Semantic Search
 
 ---
+---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,js,tensorflow,docker,git,github,mysql,postgresql,vscode,html,css,tailwind" />
+</p>
 
-* Python
-* JavaScript
-* SQL
-
-### AI & Machine Learning
-
-* Generative AI
-* Large Language Models (LLMs)
-* LangChain
-* LangGraph
-* OpenAI
-* Hugging Face
-* TensorFlow
-* Keras
-* Scikit-learn
-* NLP
-* RAG
-
-### Backend
-
-* FastAPI
-* REST APIs
-
-### Frontend
-
-* React.js
-* Streamlit
-* HTML
-* CSS
-* Tailwind CSS
-
-### Vector Databases
-
-* FAISS
-* ChromaDB
-* Pinecone
-
-### Databases
-
-* PostgreSQL
-* MySQL
-* SQLite
-
-### Tools & Platforms
-
-* Git
-* GitHub
-* Docker
-* VS Code
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FAISS-0099FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ChromaDB-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pinecone-14B8A6?style=for-the-badge" />
+</p>
 
 ---
 
