@@ -9,9 +9,9 @@ Building intelligent AI applications with **LLMs, RAG, AI Agents, Machine Learni
 </p>
 
 <p align="center">
-  <a href="YOUR_CV_LINK">
-    <img src="https://img.shields.io/badge/📄%20Download%20CV-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-  </a>
+  <a href="https://github.com/GenerativeAiWithMariams/GenerativeAiWithMariams/raw/main/Maryam_Faiz_CV%20(3).pdf">
+  <img src="https://img.shields.io/badge/📄%20Download%20CV-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
 
   <a href="https://www.upwork.com/freelancers/~012612bc04003bbd8a?mp_source=share">
     <img src="https://img.shields.io/badge/Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
