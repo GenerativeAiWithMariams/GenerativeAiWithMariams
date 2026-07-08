@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_CV_LINK">
+  <a href="https://github.com/GenerativeAiWithMariams/GenerativeAiWithMariams/raw/main/Maryam_Faiz_CV%20(3).pdf">
     <img src="https://img.shields.io/badge/📄%20Download%20CV-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 
@@ -20,8 +20,11 @@
   </a>
 </p>
 
-
-Building intelligent AI applications with **LLMs, RAG, AI Agents, Machine Learning, and FastAPI**.
+<p align="center">
+  <strong>
+    💡 Building Intelligent AI Applications with LLMs • RAG • AI Agents • Machine Learning • FastAPI
+  </strong>
+</p>
 
 ---
 
