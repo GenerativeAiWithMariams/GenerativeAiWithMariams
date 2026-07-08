@@ -114,6 +114,14 @@ I believe Artificial Intelligence should do more than impress—it should solve 
 My goal is to design intelligent, scalable, and production-ready AI solutions that combine innovation with practical impact. Whether it's **LLM-powered applications**, **RAG systems**, **AI Agents**, **NLP solutions**, or **Machine Learning models**, I strive to build technology that makes a difference.
 
 ---
+## 🤝 Open to Collaboration
+
+Are you a talented **AI Developer, Full-Stack Developer, or UI/UX Designer** looking to work on exciting freelance projects?
+
+I'm always interested in collaborating with passionate professionals to build high-quality AI solutions. If you'd like to team up and work together on **Upwork projects**, feel free to reach out.
+
+Let's grow, build, and succeed together! 🚀
+---
 
 # 🤝 Let's Connect
 
