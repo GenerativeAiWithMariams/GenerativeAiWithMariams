@@ -71,16 +71,15 @@ Over the past year, I've designed and developed multiple AI-powered applications
 </p>
 
 ---
-
 # 🌟 Featured Projects
 
-| 🚀 Project | 📝 Description | 🛠️ Tech Stack |
-|------------|---------------|---------------|
-| 🤖 **AI-Powered RAG Chatbot** | Context-aware chatbot with semantic document search, source citations, and accurate AI responses using LLMs. | LangChain • OpenAI • FAISS • ChromaDB • FastAPI |
-| 💬 **Chat with SQL & MySQL Assistant** | Converts natural language into optimized SQL queries, enabling effortless database interaction. | Python • SQL • FastAPI • LLMs |
-| 🏥 **Medical Appointment & FAQ Assistant** | AI healthcare assistant for appointment scheduling and automated patient support. | Streamlit • Python • NLP |
-| 📹 **YouTube Video Summarizer** | Generates concise summaries and key insights from YouTube videos using AI. | Python • LLMs • NLP |
-| ❤️ **Heart Disease Prediction System** | Deep learning model for early heart disease prediction using Artificial Neural Networks (ANN). | TensorFlow • Keras • Python |
+| 🚀 Project | 📝 Description |
+|------------|---------------|
+| 🤖 **AI-Powered RAG Chatbot** | Context-aware chatbot with semantic document search, source citations, and accurate AI responses using LLMs. |
+| 💬 **Chat with SQL & MySQL Assistant** | Converts natural language into optimized SQL queries, enabling effortless database interaction. |
+| 🏥 **Medical Appointment & FAQ Assistant** | AI healthcare assistant for appointment scheduling and automated patient support. |
+| 📹 **YouTube Video Summarizer** | Generates concise summaries and key insights from YouTube videos using AI. |
+| ❤️ **Heart Disease Prediction System** | Deep learning model for early heart disease prediction using Artificial Neural Networks (ANN). |
 
 ---
 
