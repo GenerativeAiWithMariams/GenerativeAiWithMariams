@@ -29,13 +29,13 @@
 ---
 ## 💫 About Me
 
-Hi! I'm **Maryam Faiz**, a passionate **Generative AI Developer** with a **Bachelor's degree in Computer Science**, dedicated to building intelligent, scalable, and production-ready AI solutions that solve real-world business challenges.
+🎓 I'm a **Generative AI Developer** with a **Bachelor's degree in Computer Science**, passionate about transforming ideas into intelligent, scalable, and production-ready AI solutions.
 
-I specialize in **Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, Machine Learning, Deep Learning, and Natural Language Processing (NLP)**. My focus is on transforming complex ideas into practical AI applications that deliver real value.
+🧠 My expertise spans **Generative AI**, **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **Machine Learning**, **Deep Learning**, **Natural Language Processing (NLP)**, and **AI Automation**. I enjoy building applications that solve real-world business challenges through modern AI technologies.
 
-Over the past year, I've built multiple AI-powered projects using **Python, FastAPI, React.js, Streamlit, TensorFlow, Keras, LangChain, LangGraph, and modern LLM frameworks**. I enjoy combining strong engineering practices with creative problem-solving to develop efficient, scalable, and user-friendly AI systems.
+🚀 Over the past year, I've designed and developed multiple AI-powered applications using **Python**, **FastAPI**, **TensorFlow**, **Keras**, **Streamlit**, **React.js**, **LangChain**, **LangGraph**, and modern **LLM frameworks**, combining technical excellence with creative problem-solving to deliver production-ready AI systems.
 
-💡 **Passionate about continuous learning, open-source contributions, and creating AI that makes a real impact.**
+---
 ## 🚀 What I Build
 
 | 💡 Expertise | 🚀 Solutions |
