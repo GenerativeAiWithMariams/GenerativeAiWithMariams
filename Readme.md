@@ -133,5 +133,5 @@ If you're looking for someone passionate about **Generative AI**, **Python**, an
 <p align="center">
   <b>Thanks for visiting my profile! 🚀</b><br><br>
   <i>Keep Learning • Keep Building • Keep Innovating</i><br><br>
-   <i>— MF 🤍</i>
+   <i>— Mariams🤍</i>
 </p>
