@@ -33,7 +33,8 @@
 
 🧠 My expertise spans **Generative AI**, **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **Machine Learning**, **Deep Learning**, **Natural Language Processing (NLP)**, and **AI Automation**. I enjoy building applications that solve real-world business challenges through modern AI technologies.
 
-🚀 Over the past year, I've designed and developed multiple AI-powered applications using **Python**, **FastAPI**, **TensorFlow**, **Keras**, **Streamlit**, **React.js**, **LangChain**, **LangGraph**, and modern **LLM frameworks**, combining technical excellence with creative problem-solving to deliver production-ready AI systems.
+> 🚀 Over the past year, I've designed and developed AI-powered applications using **Python**, **FastAPI**, **TensorFlow**, **Keras**, **Streamlit**, **React.js**, **LangChain**, **LangGraph**, and modern **LLM frameworks**, combining technical excellence with practical problem-solving.
+
 ---
 ## 🚀 What I Build
 
