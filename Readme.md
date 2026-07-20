@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Maryam Faiz
 
-### 🚀 Generative AI Developer | AI Engineer | Python Developer | MERN, React & Next.js
+### 🚀 AI Engineer & Full-Stack Developer | RAG & Python | React, Next.js & MERN
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=Generative+AI+Developer;AI+Engineer;LLMs+%7C+RAG+%7C+AI+Agents;FastAPI+%7C+Python+%7C+React" />
