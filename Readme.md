@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  
   <a href="https://github.com/GenerativeAiWithMariams/GenerativeAiWithMariams/raw/main/Maryam_Faiz_CV%20(3).pdf">
     <img src="https://img.shields.io/badge/📄%20Download%20CV-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
@@ -135,3 +136,5 @@ If you're looking for someone passionate about **Generative AI**, **Python**, an
   <i>Keep Learning • Keep Building • Keep Innovating</i><br><br>
    <i>— Mariams🤍</i>
 </p>
+
+
